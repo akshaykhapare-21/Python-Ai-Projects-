@@ -15,13 +15,13 @@ while True :
 
 #Applying condition 
     if operation == "+" :
-        print(num_1 + num_2)
+        print (num_1 , "+" , num_2 , ":" , num_1 + num_2)
     elif operation == "-" :
-        print(num_1 - num_2)
+        print (num_1 , "-" , num_2 , ":" , num_1 - num_2)
     elif operation == "*" :
-        print(num_1 * num_2)
+        print(num_1 , "*" , num_2 , ":" , num_1 * num_2)
     elif operation == "/" :
-        print(num_1 / num_2)
+        print(num_1 , "/" , num_2 , ":" , num_1 / num_2)
     elif operation == " " : 
         print("Invalid Input")
 
