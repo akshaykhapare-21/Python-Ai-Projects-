@@ -1,34 +1,32 @@
-🧮 Simple Calculator (CLI)
+# 🧮 Simple Calculator (Python)
 
-A lightweight command-line calculator built in Python.
-Designed with fundamentals in mind—clean logic, clear flow, zero fluff.
+A beginner-friendly console-based calculator built using Python.  
+This program performs basic arithmetic operations using user input.
 
-📌 Features
+---
 
+## ✨ Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Runs entirely in the terminal (CLI)
+- Continuous calculation using loop
+- Exit option
 
-🛠️ Tech Stack
+---
 
-Python 3
-Core concepts only: input(), if-else, loops, functions
+## 🛠 Concepts Used
+- Variables
+- While loop
+- Conditional statements (`if / elif`)
+- User input
+- Basic math operations
 
-▶️ How to Run
+---
+
+## ▶️ How to Run
+1. Make sure Python is installed
+2. Open terminal in the project folder
+3. Run:
+```bash
 python calculator.py
-
-📂 Project Structure
-Simple-Calculator/
-│── calculator.py
-│── README.md
-
-🎯 Purpose
-
-This project strengthens Python basics, logical thinking, and command-line interaction—solid groundwork before scaling to advanced applications.
-
-🚀 Future Scope
-- Error handling
-- Advanced operations
-- GUI version
